@@ -2,6 +2,6 @@
 
 This is a small tribute page dedicated to Sushant Singh Rajput, made by using HTML
 
-# Demo
+# Screenshot
 
-![](https://user-images.githubusercontent.com/94695669/222971004-dae24160-66af-447c-8cda-ac1a59c6b6a9.gif)
+![](https://user-images.githubusercontent.com/94695669/223768504-07c9ca6b-08d3-4984-810d-589f78a79287.png)
